@@ -1,0 +1,11 @@
+.heading{
+font-size:23px;
+margin:20px;
+
+
+}
+.song{
+color:red;
+background-image:linear-gradient(red,magenta,blue,aquamarine,yellow,maroon,beige);
+font-size:23px;
+}
